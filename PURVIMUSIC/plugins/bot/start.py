@@ -29,14 +29,32 @@ from strings import get_string
 #--------------------------
 
 NEXI_VID = [
-"https://files.catbox.moe/8wd7ir.jpg",
-"https://files.catbox.moe/n9bm07.jpg",
-"https://files.catbox.moe/se2d0s.jpg",
-"https://files.catbox.moe/0abccw.jpg",
-"https://files.catbox.moe/gr0wep.jpg",
-"https://files.catbox.moe/8we6bz.jpg",
-"https://files.catbox.moe/v3e99d.jpg",
-
+"https://graph.org/file/eaa3a2602e43844a488a5.jpg",
+"https://graph.org/file/b129e98b6e5c4db81c15f.jpg",
+"https://graph.org/file/3ccb86d7d62e8ee0a2e8b.jpg",
+"https://graph.org/file/df11d8257613418142063.jpg",
+"https://graph.org/file/9e23720fedc47259b6195.jpg",
+"https://graph.org/file/826485f2d7db6f09db8ed.jpg",
+"https://graph.org/file/ff3ad786da825b5205691.jpg",
+"https://graph.org/file/52713c9fe9253ae668f13.jpg",
+"https://graph.org/file/8f8516c86677a8c91bfb1.jpg",
+"https://graph.org/file/6603c3740378d3f7187da.jpg",
+"https://graph.org/file/66cb6ec40eea5c4670118.jpg",
+"https://graph.org/file/2e3cf4327b169b981055e.jpg",
+"https://files.catbox.moe/4q7c4w.jpg",
+"https://files.catbox.moe/90z6sq.jpg",
+"https://files.catbox.moe/rdfi4z.jpg",
+"https://files.catbox.moe/6f9rgp.jpg",
+"https://files.catbox.moe/99wj12.jpg",
+"https://files.catbox.moe/ezpnd2.jpg",
+"https://files.catbox.moe/e7q55f.jpg",
+"https://files.catbox.moe/qyfsi7.jpg",
+"https://files.catbox.moe/kbke7s.jpg",
+"https://files.catbox.moe/7icvpu.jpg",
+"https://files.catbox.moe/4hd77z.jpg",
+"https://files.catbox.moe/yn7wje.jpg",
+"https://files.catbox.moe/kifsir.jpg",
+"https://files.catbox.moe/zi21kc.jpg",
 ]
 
 
